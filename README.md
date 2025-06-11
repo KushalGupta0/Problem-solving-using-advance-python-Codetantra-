@@ -4,8 +4,6 @@ Welcome to the repository! This project contains Python solutions for the **Prob
 
 ---
 
----
-
 ## 📝 Notes
 
 - ✅ **Available**: Solutions for most Unit 1 problems.
