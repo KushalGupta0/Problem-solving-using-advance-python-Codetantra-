@@ -8,8 +8,8 @@ class Rectangle:
         return self.length * self.width
 
 
-length = int(input("Enter the length"))
-width = int(input("Enter the width"))
+length = int(input("Enterlength: "))
+width = int(input("Enter width: "))
 
 rectangle1 = Rectangle(length, width)
 
