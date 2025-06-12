@@ -50,7 +50,7 @@ while True:
     elif choice == '4':
         result = c1 - c2
         print("Difference of the two complex numbers:")
-        print(f"{result.real} + {result.imag}i")
+        print(f"{result.real} + {result.imaginary}i")
 
     else:
         break
