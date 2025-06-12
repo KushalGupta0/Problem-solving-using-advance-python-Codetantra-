@@ -1,18 +1,18 @@
 class Numbers:
 
-    def __init__(self):
-        pass
+	def __init__(self):
+		pass
 
-    def insert_elements(self):
-        L = []
-        num = int(input("Enter no. of elements:"))
-        for i in range(num):
-            a = int(input())
-            L.append(a)
-        self.value = L
+	def insert_elements(self):
+		l = []
+		num = int(input("Enter no.of elements:"))
+		for i in range(num):
+			a = int(input())
+			l.append(a)
+		self.value = l
 
-    def find_max(self):
-        return max(self.value)
+	def find_max(self):
+		return max(self.value)
 
 n1 = Numbers()
 n1.insert_elements()
