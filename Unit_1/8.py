@@ -46,7 +46,7 @@ class String:
         return spaces
     
 s1 = String(input("Enter string: "))
-
+print("String:", s1.string)
 print("Uppercase letters:", s1.count_uppercase())
 print("Lowercase letters:",s1.count_lowercase())
 print("Vowels:",s1.count_vowels())
