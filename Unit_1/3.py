@@ -16,7 +16,7 @@ class Students:
         print("Total Marks:", self.total)
         print("Average Marks:", self.average)
         
-name = input("Student Name: ")
+name = input("Student name: ")
 print("Enter marks: ")
 l = []
 for i in range(3):
