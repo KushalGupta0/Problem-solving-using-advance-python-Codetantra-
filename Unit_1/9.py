@@ -5,7 +5,7 @@ class Numbers:
 
     def insert_elements(self):
         L = []
-        num = int(input("Enter no. of elements: "))
+        num = int(input("Enter no. of elements:"))
         for i in range(num):
             a = int(input())
             L.append(a)
