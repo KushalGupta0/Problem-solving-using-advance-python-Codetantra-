@@ -14,4 +14,4 @@ width = int(input("Enter the width"))
 rectangle1 = Rectangle(length, width)
 
 area_rect1 = rectangle1.area()
-print(area_rect1)
+print("Area of Rectangle:",area_rect1)
