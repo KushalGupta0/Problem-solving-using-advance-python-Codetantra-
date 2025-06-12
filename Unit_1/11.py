@@ -8,6 +8,6 @@ class Temperature:
     
 celsius = input("Enter a list of temperature in celsius: ")
 celsius = celsius.split(' ')
-celsius = [float(i) for i in celsius]
+celsius = [int(i) for i in celsius]
 temp = Temperature(celsius)
 print("Temperature in Fahrenheit:", temp.convert_to_fahrenheit())
