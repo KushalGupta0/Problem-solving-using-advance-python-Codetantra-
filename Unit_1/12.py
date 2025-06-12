@@ -30,8 +30,8 @@ while True:
     if choice == '1':
         a = float(input("Enter the real part of the first complex number: "))
         b = float(input("Enter the imaginary part of the first complex number: "))
-        c = float(input("Enter the real part of the secondary complex number: "))
-        d = float(input("Enter the imaginary part of the secondary complex number: "))
+        c = float(input("Enter the real part of the second complex number: "))
+        d = float(input("Enter the imaginary part of the second complex number: "))
         c1 = Complex(a, b)
         c2 = Complex(c, d)
 
@@ -43,7 +43,7 @@ while True:
 
     elif choice == '3':
         result = c1 + c2
-        print("Result of addition:")
+        print("Sum of the two complex numbers:")
         result.display()
 
 
