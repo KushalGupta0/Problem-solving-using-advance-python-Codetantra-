@@ -11,11 +11,11 @@ class Point:
     def length(cls, p1, p2):
         return ((p2.x - p1.x)**2 + (p2.y - p1.y)**2)**0.5
     
-x1 = int(input("Enter x1 value: "))
-y1 = int(input("Enter y1 value: "))
-x2 = int(input("Enter x2 value: "))
-y2 = int(input("Enter y2 value: "))
+x1 = float(input("Enter x1 value: "))
+y1 = float(input("Enter y1 value: "))
+x2 = float(input("Enter x2 value: "))
+y2 = float(input("Enter y2 value: "))
 p1 = Point(x1, y1)
 p2 = Point(x2, y2)
 print("Midpoint:", Point.midpoint(p1, p2))
-print("Length:", Point.length(p1, p2))
+print("Length:", format(Point.length(p1, p2),".2f"))
