@@ -13,7 +13,7 @@ Welcome to the repository! This project contains Python solutions for the **Prob
 ## 📝 Notes
 
 - ✅ **Available**: Solutions for most Unit 1 problems.
-- ❌ **Missing**: Solutions for **Question 2** and **Question 13** are **not available yet**. These will be added soon in future updates.
+- ❌ **Missing**: Solution **Question 13** is **not available yet**. This will be added soon in future updates.
 
 ---
 
