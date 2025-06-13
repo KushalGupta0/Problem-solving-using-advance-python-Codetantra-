@@ -4,12 +4,6 @@ Welcome to the repository! This project contains Python solutions for the **Prob
 
 ---
 
-## 📋 Notice 
-
-- 📌 Question number 2 of unit one is now uploaded.
-
----
-
 ## 📝 Notes
 
 - ✅ **Available**: Solutions for most Unit 1 problems.
