@@ -7,13 +7,14 @@ Welcome to the repository! This project contains Python solutions for the **Prob
 ## 📋 Notice 
 
 - ❗ **Question 2** of the unit 1 is now uploaded.
+- ❗ **Question 13** of the unit 1 is now uploaded.
 
 ---
 
 ## 📝 Notes
 
-- ✅ **Available**: Solutions for most Unit 1 problems.
-- ❌ **Missing**: Solution **Question 13** is **not available yet**. This will be added soon in future updates.
+- ✅ **Available**: Solutions for all Unit 1 problems.
+- ✅ **Available**: Solutions for all Unit 2 problems.
 
 ---
 
