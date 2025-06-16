@@ -1,3 +1,4 @@
+# Comment out already written code and then copy this
 class Person:
 
     def __init__(self, name, age):
